@@ -4,4 +4,4 @@ This R code relates to the creation of an app on Shiny for a better visual repre
 
 The resulting Shiny app enhances the experience of exploratory data analysis intended in my original article where I conducted said research. It allows for the plotting of the diferent policy type and motivation variables as a bar plot, stacked bar plot, mosaic plot, heatmap, and segmented bar plot.
 
-You can read my article in the following link: https://zenodo.org/records/12574085
+You can read my article in the following link: https://shs.cairn.info/revue-politique-europeenne-2024-0-page-I9?lang=fr
